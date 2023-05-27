@@ -1,5 +1,5 @@
 # BlueprintsAccessToGConfig
-This plugin provides access from blueprints to the data that lives in the Unreal Engine 4 .ini files. Including:
+This plugin provides access from blueprints to the data that lives in the Unreal Engine .ini files. Including:
 
 
 ## Getters
